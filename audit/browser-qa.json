@@ -10,5 +10,10 @@
   "responsive_viewport": "390×844；实际内容宽375px，页面滚动宽375px，无整体横向溢出",
   "wide_table_behavior": "333px容器内464px表格独立横向滚动",
   "reading_font_toggle": "aria-pressed由false切换为true",
-  "scope_correction": "文献页已验收；整体汇编已撤下，分章节工作区首页待新部署复核"
+  "scope_correction": "整体汇编已撤下；线上首页仅提供6个章节入口，已核对v0.2范围文字。",
+  "chapter_workspace_title": "章节工作区 · Diella 采购研究",
+  "chapter_link_count": 6,
+  "verified_content_commit": "f7e4d95",
+  "verified_content_ci": "40869252319 success",
+  "verified_pages_deployment": "40869251228 success"
 }

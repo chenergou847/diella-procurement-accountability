@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "A01",
+    "category": "相关研究",
+    "title": "Assessing the value of artificial intelligence (AI) in governmental public procurement",
+    "authors": [
+      "Per Erik Andersson",
+      "Katarina Arbin",
+      "Christopher Rosenqvist"
+    ],
+    "year": "2025",
+    "type": "期刊访谈研究",
+    "doi": "10.1108/JOPP-05-2024-0057",
+    "source_url": "https://research.hhs.se/esploro/outputs/journalArticle/Assessing-the-value-of-artificial-intelligence/991001624899106056",
+    "tags": [
+      "AI采购",
+      "组织能力",
+      "访谈"
+    ],
+    "reading_level": "已读摘要、样本与方法、组织障碍段落",
+    "review_role": "核心：组织实施条件",
+    "method": "瑞典政府机构访谈及验证工作坊",
+    "limitations": "主要测感知价值和成熟度，不是因果效果估计。",
+    "key_points": [
+      "瑞典采购机构的AI应用成熟度总体偏低，现阶段感知价值主要体现在运营能力、流程效率与监督。",
+      "组织流程、技术条件和数据管理共同决定AI能否创造公共价值。"
+    ],
+    "key_points_basis": "摘要、方法与组织障碍相关正文",
+    "view_kind": "研究观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "ANDERSSON P E, ARBIN K, ROSENQVIST C. Assessing the value of artificial intelligence (AI) in governmental public procurement[J]. Journal of Public Procurement, 2025, 25(1): 120–139. DOI: 10.1108/JOPP-05-2024-0057.",
+        "note": "",
+        "year": "2025",
+        "journal": "Journal of Public Procurement",
+        "volume": "25",
+        "issue": "1",
+        "pages": "120–139",
+        "doi": "10.1108/JOPP-05-2024-0057",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "ANDERSSON P E, ARBIN K, ROSENQVIST C. Assessing the value of artificial intelligence (AI) in governmental public procurement[J]. Journal of Public Procurement, 2025, 25(1): 120–139. DOI: 10.1108/JOPP-05-2024-0057.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Emerald、刊物/会议Journal of Public Procurement及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://research.hhs.se/esploro/outputs/journalArticle/Assessing-the-value-of-artificial-intelligence/991001624899106056",
+      "https://api.crossref.org/works/10.1108/JOPP-05-2024-0057"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "A02",
+    "category": "相关研究",
+    "title": "Bots against corruption: Exploring the benefits and limitations of AI-based anti-corruption technology",
+    "authors": [
+      "Fernanda Odilla"
+    ],
+    "year": "2023",
+    "type": "期刊经验研究",
+    "doi": "10.1007/s10611-023-10091-0",
+    "source_url": "https://link.springer.com/article/10.1007/s10611-023-10091-0",
+    "tags": [
+      "AI反腐",
+      "实施",
+      "组织"
+    ],
+    "reading_level": "已读摘要、案例选择、信息获取和结果相关段落",
+    "review_role": "核心：AI反腐的实践条件",
+    "method": "巴西31项技术倡议的定性比较、访谈及文档",
+    "limitations": "工具存在、风险预警和透明度，不自动等于腐败减少。",
+    "key_points": [
+      "巴西反腐技术主要用于挖掘、交叉核对数据和标记可疑行为，常由具备技术能力的官员或公民开发。",
+      "政府工具的透明度及民间项目的开放数据可得性，是实际运行的重要限制。"
+    ],
+    "key_points_basis": "31项倡议的摘要、方法与分析正文",
+    "view_kind": "研究观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "ODILLA F. Bots against corruption: Exploring the benefits and limitations of AI-based anti-corruption technology[J]. Crime, Law and Social Change, 2023, 80(4): 353–396. DOI: 10.1007/s10611-023-10091-0.",
+        "note": "",
+        "year": "2023",
+        "journal": "Crime, Law and Social Change",
+        "volume": "80",
+        "issue": "4",
+        "pages": "353–396",
+        "doi": "10.1007/s10611-023-10091-0",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "ODILLA F. Bots against corruption: Exploring the benefits and limitations of AI-based anti-corruption technology[J]. Crime, Law and Social Change, 2023, 80(4): 353–396. DOI: 10.1007/s10611-023-10091-0.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Springer Science and Business Media LLC、刊物/会议Crime, Law and Social Change及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://link.springer.com/article/10.1007/s10611-023-10091-0",
+      "https://api.crossref.org/works/10.1007/s10611-023-10091-0"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "A03",
+    "category": "相关研究",
+    "title": "Are emerging technologies helping win the fight against corruption? A review of the state of evidence",
+    "authors": [
+      "Isabelle Adam",
+      "Mihály Fazekas"
+    ],
+    "year": "2020工作稿/2021正式版",
+    "type": "文献综述",
+    "doi": "10.1016/j.infoecopol.2021.100950",
+    "source_url": "https://doi.org/10.1016/j.infoecopol.2021.100950",
+    "tags": [
+      "数字反腐",
+      "证据综述",
+      "效果"
+    ],
+    "reading_level": "已读工作稿摘要与理论/证据框架；正式版元数据已核",
+    "review_role": "核心：数字技术反腐的证据综述",
+    "method": "文献综述",
+    "limitations": "本地为2020工作稿，不能当2021正式排版版；不是Diella专门研究。",
+    "key_points": [
+      "数字技术可以通过公众监督、信息公开和参与支持反腐，但技术存在不自动带来反腐结果。",
+      "效果依赖本地制度、技能与支持条件；技术本身也可能创造新的腐败机会。"
+    ],
+    "key_points_basis": "本地2020工作稿的摘要与证据框架",
+    "view_kind": "综述观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "本地工作稿（2020）",
+        "text": "ADAM I, FAZEKAS M. Are emerging technologies helping win the fight against corruption? A review of the state of evidence[R/OL]. Budapest: Government Transparency Institute, 2020: GTI-WP/2020:02[2026-10-29]. https://www.govtransparency.eu/wp-content/uploads/2020/04/ICT-Corruption_GTI-WP-version_2020420.pdf.",
+        "note": "研究档案中的PDF对应此版本；工作稿不等同于正式版。",
+        "year": "2020",
+        "publisher": "Government Transparency Institute",
+        "ris_type": "RPRT",
+        "url": "https://www.govtransparency.eu/wp-content/uploads/2020/04/ICT-Corruption_GTI-WP-version_2020420.pdf"
+      },
+      {
+        "label": "正式发表版",
+        "text": "ADAM I, FAZEKAS M. Are emerging technologies helping win the fight against corruption? A review of the state of evidence[J]. Information Economics and Policy, 2021, 57: 100950. DOI: 10.1016/j.infoecopol.2021.100950.",
+        "note": "正式版出版元数据已核；研究档案中的PDF为2020工作稿。",
+        "year": "2021",
+        "journal": "Information Economics and Policy",
+        "volume": "57",
+        "issue": "",
+        "pages": "100950",
+        "doi": "10.1016/j.infoecopol.2021.100950",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "ADAM I, FAZEKAS M. Are emerging technologies helping win the fight against corruption? A review of the state of evidence[R/OL]. Budapest: Government Transparency Institute, 2020: GTI-WP/2020:02[2026-10-29]. https://www.govtransparency.eu/wp-content/uploads/2020/04/ICT-Corruption_GTI-WP-version_2020420.pdf.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Elsevier BV、刊物/会议Information Economics and Policy及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://doi.org/10.1016/j.infoecopol.2021.100950",
+      "https://api.crossref.org/works/10.1016/j.infoecopol.2021.100950"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "A04",
+    "category": "相关研究",
+    "title": "Preventing rather than punishing: An early warning model of malfeasance in public procurement",
+    "authors": [
+      "Jorge Gallego",
+      "Gonzalo Rivero",
+      "Juan Martínez"
+    ],
+    "year": "2018工作稿/2021正式版",
+    "type": "机器学习风险预测研究",
+    "doi": "10.1016/j.ijforecast.2020.06.006",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S0169207020300935",
+    "tags": [
+      "采购",
+      "机器学习",
+      "预测与因果"
+    ],
+    "reading_level": "出版方摘要与工作稿目录；PDF未获",
+    "review_role": "相关方法线索：风险预测",
+    "method": "采购合同的机器学习预测",
+    "limitations": "预测调查、违约或低效不等于识别AI部署的政策效果。",
+    "key_points": [
+      "可利用采购行政数据训练模型，预警后续调查、违约及执行低效的风险。",
+      "文章将风险预测作为配置监督资源的工具，研究对象并非AI部署的反腐净效果。"
+    ],
+    "key_points_basis": "出版方摘要，未核全文",
+    "view_kind": "摘要观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "GALLEGO J, RIVERO G, MARTÍNEZ J. Preventing rather than punishing: An early warning model of malfeasance in public procurement[J]. International Journal of Forecasting, 2021, 37(1): 360–377. DOI: 10.1016/j.ijforecast.2020.06.006.",
+        "note": "已核出版方摘要与出版元数据；本地没有全文PDF。",
+        "year": "2021",
+        "journal": "International Journal of Forecasting",
+        "volume": "37",
+        "issue": "1",
+        "pages": "360–377",
+        "doi": "10.1016/j.ijforecast.2020.06.006",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "GALLEGO J, RIVERO G, MARTÍNEZ J. Preventing rather than punishing: An early warning model of malfeasance in public procurement[J]. International Journal of Forecasting, 2021, 37(1): 360–377. DOI: 10.1016/j.ijforecast.2020.06.006.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Elsevier BV、刊物/会议International Journal of Forecasting及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0169207020300935",
+      "https://api.crossref.org/works/10.1016/j.ijforecast.2020.06.006"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "A05",
+    "category": "相关研究",
+    "title": "Paper on the effectiveness of AI tools to detect corruption: A case study on Danish public procurements",
+    "authors": [
+      "Andrea Longobucco",
+      "Joras Ferwerda"
+    ],
+    "year": "2025交付/2026网页上传",
+    "type": "欧盟资助研究项目报告",
+    "doi": "",
+    "source_url": "https://corruptiondata.eu/wp-content/uploads/2026/02/BridgeGap-D6-2-The-Effectiveness-of-AI-tools-to-detect-corruption_V1.0.pdf",
+    "tags": [
+      "风险检测",
+      "监督学习",
+      "效度",
+      "数据"
+    ],
+    "reading_level": "已读封面、执行摘要、变量及风险标签相关内容",
+    "review_role": "核心：检测评估与标签效度",
+    "method": "六种无监督及六种监督模型比较",
+    "limitations": "风险代理标签与证实腐败不同；分类表现不证明AI减少腐败。",
+    "key_points": [
+      "不同模型的风险筛查表现差异明显；部分异常检测模型仅略优于随机筛查。",
+      "报告使用单一投标、复合腐败风险等代理指标评价检测能力，不能把分类表现当作实际腐败减少。"
+    ],
+    "key_points_basis": "执行摘要、模型评价与标签构造正文",
+    "view_kind": "研究观点及测量边界",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "项目报告 V1.0",
+        "text": "LONGOBUCCO A, FERWERDA J. Paper on the effectiveness of AI tools to detect corruption: A case study on Danish public procurements[R/OL]. Utrecht: Utrecht University, 2025[2026-10-29]. https://corruptiondata.eu/wp-content/uploads/2026/02/BridgeGap-D6-2-The-Effectiveness-of-AI-tools-to-detect-corruption_V1.0.pdf.",
+        "note": "BridgeGap D6.2；实际交付日2025-12-22，网址上传于2026。项目内部评审，不冒充期刊同行评审。",
+        "year": "2025",
+        "publisher": "Utrecht University",
+        "url": "https://corruptiondata.eu/wp-content/uploads/2026/02/BridgeGap-D6-2-The-Effectiveness-of-AI-tools-to-detect-corruption_V1.0.pdf",
+        "ris_type": "RPRT"
+      }
+    ],
+    "citation": "LONGOBUCCO A, FERWERDA J. Paper on the effectiveness of AI tools to detect corruption: A case study on Danish public procurements[R/OL]. Utrecht: Utrecht University, 2025[2026-10-29]. https://corruptiondata.eu/wp-content/uploads/2026/02/BridgeGap-D6-2-The-Effectiveness-of-AI-tools-to-detect-corruption_V1.0.pdf.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "有署名评审的大学项目报告",
+    "authority_reason": "乌得勒支大学承担，报告列项目资助号、作者、两名评审人与内部评审修订记录；属于项目成果，非期刊论文。",
+    "supports": "丹麦采购数据上的AI风险筛查模型比较。",
+    "does_not_support": "不能把欧盟资助解读为欧盟对结论的背书；不支持Diella反腐效果。",
+    "authority_sources": [
+      "https://corruptiondata.eu/wp-content/uploads/2026/02/BridgeGap-D6-2-The-Effectiveness-of-AI-tools-to-detect-corruption_V1.0.pdf"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "D01",
+    "category": "直接研究",
+    "title": "Experimenting with algorithmic governance: Artificial intelligence between innovation and democratic responsibility",
+    "authors": [
+      "Daniele Battista",
+      "Rubén Rivas-de-Roca"
+    ],
+    "year": "2025",
+    "type": "期刊评论（Reflections，编辑审阅）",
+    "doi": "10.29379/jedem.v17i4.1177",
+    "source_url": "https://jedem.org/index.php/jedem/article/view/1177",
+    "tags": [
+      "Diella",
+      "问责",
+      "合法性"
+    ],
+    "reading_level": "已读摘要及理论/讨论正文；非逐页通读",
+    "review_role": "辅助材料：算法治理、技术官僚化与民主责任的讨论。",
+    "method": "概念与规范分析",
+    "limitations": "没有采购合同处理记录或净效果识别。",
+    "key_points": [
+      "AI进入政府结构会改变效率、透明度、问责与决策合法性的组织方式。",
+      "行政理性化的承诺可能伴随技术官僚化与权力转移，需要民主、伦理及监管约束。"
+    ],
+    "key_points_basis": "期刊摘要及理论、讨论正文",
+    "view_kind": "研究观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "BATTISTA D, RIVAS-DE-ROCA R. Experimenting with algorithmic governance: Artificial intelligence between innovation and democratic responsibility[J]. JeDEM – eJournal of eDemocracy and Open Government, 2025, 17(4): 103–115. DOI: 10.29379/jedem.v17i4.1177.",
+        "note": "Reflections栏目：编辑审阅，不能称为经过双盲评审的研究论文。",
+        "year": "2025",
+        "journal": "JeDEM – eJournal of eDemocracy and Open Government",
+        "volume": "17",
+        "issue": "4",
+        "pages": "103–115",
+        "doi": "10.29379/jedem.v17i4.1177",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "BATTISTA D, RIVAS-DE-ROCA R. Experimenting with algorithmic governance: Artificial intelligence between innovation and democratic responsibility[J]. JeDEM – eJournal of eDemocracy and Open Government, 2025, 17(4): 103–115. DOI: 10.29379/jedem.v17i4.1177.",
+    "selection": "supplement",
+    "selection_label": "辅助材料",
+    "authority_label": "正规期刊的编辑审阅评论",
+    "authority_reason": "JeDEM由克雷姆斯继续教育大学相关院系出版；本文属于Reflections，官方规则明确仅编辑审阅。",
+    "supports": "算法治理、技术官僚化与民主责任的讨论。",
+    "does_not_support": "不能称为双盲评审研究，更不能当成采购成效的经验证据。",
+    "authority_sources": [
+      "https://jedem.org/index.php/jedem/article/view/1177",
+      "https://jedem.org/index.php/jedem/about"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "D04",
+    "category": "直接研究",
+    "title": "Análisis de Diella, la ministra digital de Albania, a la luz de la teoría de la personalidad jurídica",
+    "authors": [
+      "Andrea Padrón Villalba"
+    ],
+    "year": "2025（上线）/2024（卷期）",
+    "type": "期刊法律分析",
+    "doi": "10.25145/j.anfade.2024.41.01",
+    "source_url": "https://www.ull.es/revistas/index.php/derecho/article/view/j.anfade.2024.41.01",
+    "tags": [
+      "Diella",
+      "法律人格",
+      "责任"
+    ],
+    "reading_level": "已读摘要、开头法律分析；非逐页通读",
+    "review_role": "核心：法律人格与责任",
+    "method": "法律理论与规范分析",
+    "limitations": "2025上线与2024卷期须分别记录；未提供采购结果评估。",
+    "key_points": [
+      "AI能否具有法律人格、能否担任部长及承担政治责任，是需要分别论证的问题。",
+      "算法会承载设计者的价值和偏差，把治理交给软件可能成为规避人类责任的途径。"
+    ],
+    "key_points_basis": "英文摘要及法律理论正文",
+    "view_kind": "法律观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "PADRÓN VILLALBA A. Análisis de Diella, la ministra digital de Albania, a la luz de la teoría de la personalidad jurídica[J]. Anales de la Facultad de Derecho, 2024, 41: 9–23. DOI: 10.25145/j.anfade.2024.41.01.",
+        "note": "引用沿用出版方卷期年份2024；文章网页实际发布于2025-12-11，讨论的是2025年的事件。",
+        "year": "2024",
+        "journal": "Anales de la Facultad de Derecho",
+        "volume": "",
+        "issue": "41",
+        "pages": "9–23",
+        "doi": "10.25145/j.anfade.2024.41.01",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "PADRÓN VILLALBA A. Análisis de Diella, la ministra digital de Albania, a la luz de la teoría de la personalidad jurídica[J]. Anales de la Facultad de Derecho, 2024, 41: 9–23. DOI: 10.25145/j.anfade.2024.41.01.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "大学法学期刊；匿名评审政策已核",
+    "authority_reason": "拉古纳大学出版；官方规则规定匿名评审，文章列于Artículos栏目。卷期标2024、网页实际发布2025，差异显式保留。",
+    "supports": "法律人格、职权与人类责任的规范论证。",
+    "does_not_support": "不是法院裁判或采购效果评估。",
+    "authority_sources": [
+      "https://www.ull.es/revistas/index.php/derecho/article/view/j.anfade.2024.41.01",
+      "https://www.ull.es/revistas/index.php/derecho/normas",
+      "https://www.ull.es/revistas/index.php/derecho/about"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "D07",
+    "category": "直接研究",
+    "title": "Simulacrum of Digital Subjectivity: An Analysis of the Phenomenon of Albania’s AI Minister",
+    "authors": [
+      "Oleksandr Nezdolia"
+    ],
+    "year": "2025",
+    "type": "期刊哲学分析",
+    "doi": "10.17721/2523-4064.2025/13-7/14",
+    "source_url": "https://www.bulletinphilosophy-knu.kyiv.ua/index.php/journal/article/view/218",
+    "tags": [
+      "Diella",
+      "拟人化",
+      "主体性"
+    ],
+    "reading_level": "已读英文摘要；已取得乌克兰语全文，但未逐段通读",
+    "review_role": "补充：拟人化与主体性",
+    "method": "诠释、话语与规范分析",
+    "limitations": "运行描述主要需回查原始事实；不作采购成效证据。",
+    "key_points": [
+      "Diella的拟人化呈现可能造成自主政治主体的印象，掩盖其工具属性及人类控制。",
+      "作者担忧由此产生不透明、差别对待和责任转移，主张规范约束与可问责治理。"
+    ],
+    "key_points_basis": "期刊英文摘要；乌克兰语全文未逐段核读",
+    "view_kind": "摘要观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "NEZDOLIA O. Simulacrum of Digital Subjectivity: An Analysis of the Phenomenon of Albania’s AI Minister[J]. Bulletin of Taras Shevchenko National University of Kyiv. Philosophy, 2025, 2(13): 45–49. DOI: 10.17721/2523-4064.2025/13-7/14.",
+        "note": "出版方期号标为2(13)，不是第2卷；已核英文摘要，乌克兰语正文未逐段核读。",
+        "year": "2025",
+        "journal": "Bulletin of Taras Shevchenko National University of Kyiv. Philosophy",
+        "volume": "",
+        "issue": "2(13)",
+        "pages": "45–49",
+        "doi": "10.17721/2523-4064.2025/13-7/14",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "NEZDOLIA O. Simulacrum of Digital Subjectivity: An Analysis of the Phenomenon of Albania’s AI Minister[J]. Bulletin of Taras Shevchenko National University of Kyiv. Philosophy, 2025, 2(13): 45–49. DOI: 10.17721/2523-4064.2025/13-7/14.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "大学哲学期刊；双盲评审政策已核",
+    "authority_reason": "基辅国立大学哲学期刊；官网规定至少两名外部评审双盲审阅。本文已核英文摘要，乌克兰语正文未逐段核读。",
+    "supports": "拟人化、数字主体性与算法责任的理论观点。",
+    "does_not_support": "摘要中对实际使用的陈述仍须查政府原件；不能作为部署审计或效果证据。",
+    "authority_sources": [
+      "https://www.bulletinphilosophy-knu.kyiv.ua/index.php/journal/article/view/218",
+      "https://www.bulletinphilosophy-knu.kyiv.ua/index.php/journal/review-procedure"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "D08",
+    "category": "直接研究",
+    "title": "Une IA devient ministre d’État en Albanie",
+    "authors": [
+      "Stéphanie Messal"
+    ],
+    "year": "2026",
+    "type": "期刊人类学分析",
+    "doi": "",
+    "source_url": "https://cpp.numerev.com/articles/revue-48/2141-une-ia-devient-ministre-d-etat-en-albanie",
+    "tags": [
+      "Diella",
+      "政治仪式",
+      "象征"
+    ],
+    "reading_level": "已读研究问题、象征分析、结论；本地PDF已获",
+    "review_role": "核心：政治仪式与象征",
+    "method": "人类学取向的符号、公开演出分析",
+    "limitations": "不是采购交易层面的效果研究；PDF注明2026-02-01发布，专题名为2026年1月。",
+    "key_points": [
+      "太阳符号、传统服装、女性形象及亲缘叙事共同构成Diella的政治仪式和权威形象。",
+      "作者将Diella的公开展示解释为拉马的政治表演，强调须结合创造者和传播语境分析。"
+    ],
+    "key_points_basis": "研究问题、象征分析及结论正文",
+    "view_kind": "人类学解释",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "期刊网络版",
+        "text": "MESSAL S. Une IA devient ministre d’État en Albanie[J/OL]. Cahiers de Psychologie Politique, 2026(48)[2026-10-29]. https://cpp.numerev.com/articles/revue-48/2141-une-ia-devient-ministre-d-etat-en-albanie.",
+        "note": "期号主题标2026年1月，PDF标发布日期2026-02-01；不把19页文件长度写成期刊页码。",
+        "year": "2026",
+        "journal": "Cahiers de Psychologie Politique",
+        "issue": "48",
+        "url": "https://cpp.numerev.com/articles/revue-48/2141-une-ia-devient-ministre-d-etat-en-albanie",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "MESSAL S. Une IA devient ministre d’État en Albanie[J/OL]. Cahiers de Psychologie Politique, 2026(48)[2026-10-29]. https://cpp.numerev.com/articles/revue-48/2141-une-ia-devient-ministre-d-etat-en-albanie.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "专业学术期刊；双盲评审政策已核",
+    "authority_reason": "Cahiers de Psychologie Politique官方政策规定双盲评审，作者为人类学博士，相关正文已核读。",
+    "supports": "Diella政治形象、符号与仪式的解释。",
+    "does_not_support": "解释性文本分析不能当作采购腐败变化的测量。",
+    "authority_sources": [
+      "https://cpp.numerev.com/articles/revue-48/2141-une-ia-devient-ministre-d-etat-en-albanie",
+      "https://cpp.numerev.com/politique-editoriale"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "D14",
+    "category": "直接研究",
+    "title": "From Tool to Actor: Diella and the Emergence of Algorithmic Subjectivity in Governance",
+    "authors": [
+      "Mentor Beqa",
+      "Morena Boja"
+    ],
+    "year": "2026（论文集）/2025（会议）",
+    "type": "大学出版社会议集章节",
+    "doi": "",
+    "source_url": "https://msp-conference.unwe.bg/Uploads/MspConference/_6b33f_Conference_2025_FINAL_NEW_NEW_Final.pdf",
+    "tags": [
+      "Diella",
+      "合法化",
+      "政治传播"
+    ],
+    "reading_level": "已读PDF168摘要、173–174方法、178–181讨论及结论",
+    "reading_pages": "168–183",
+    "review_role": "辅助材料：AI制度角色形成的解释性模型，可作为补充讨论。",
+    "method": "基于公开文献的解释性过程追踪",
+    "limitations": "解释AI如何被制度化，不估计它使采购更廉洁的净效果。",
+    "key_points": [
+      "Diella的制度主体性是政治叙事、角色命名、程序授权、公开呈现和责任争议共同建构的结果。",
+      "文章提出六阶段的算法地位形成模型，解释AI如何获得行动者式制度存在，而非估计反腐净效果。"
+    ],
+    "key_points_basis": "PDF物理页168–183中的摘要、方法与讨论",
+    "view_kind": "过程解释",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "会议集章节（2026）",
+        "text": "BEQA M, BOJA M. From Tool to Actor: Diella and the Emergence of Algorithmic Subjectivity in Governance[C]//KATRANDJIEV H, ed. Strategic Planning and Marketing in the Digital World: Fifth International Scientific Conference, Conference Proceedings. Sofia: UNWE Press, 2026: 168–183.",
+        "note": "2025年会议、2026年出版；以章节首页至末页的页码为准，下载文件为整卷。未取得本章独立审稿记录。",
+        "year": "2026",
+        "publisher": "UNWE Press",
+        "journal": "Strategic Planning and Marketing in the Digital World: Fifth International Scientific Conference, Conference Proceedings",
+        "pages": "168–183",
+        "ris_type": "CHAP"
+      }
+    ],
+    "citation": "BEQA M, BOJA M. From Tool to Actor: Diella and the Emergence of Algorithmic Subjectivity in Governance[C]//KATRANDJIEV H, ed. Strategic Planning and Marketing in the Digital World: Fifth International Scientific Conference, Conference Proceedings. Sofia: UNWE Press, 2026: 168–183.",
+    "selection": "supplement",
+    "selection_label": "辅助材料",
+    "authority_label": "大学出版社会议集章节",
+    "authority_reason": "UNWE原站整卷、出版社、作者与章节可定位；本轮未取得本章独立审稿流程的证据，优先级低于已核评审政策的期刊。",
+    "supports": "AI制度角色形成的解释性模型，可作为补充讨论。",
+    "does_not_support": "不作为廉洁性效果或机制已被验证的证据。",
+    "authority_sources": [
+      "https://msp-conference.unwe.bg/Uploads/MspConference/_6b33f_Conference_2025_FINAL_NEW_NEW_Final.pdf"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "D17",
+    "category": "直接研究",
+    "title": "Artificial intelligence, real politics: What Albania's AI Minister means for EU accession",
+    "authors": [
+      "Clotilde Bômont",
+      "Bojana Zorić"
+    ],
+    "year": "2025",
+    "type": "EUISS政策评论",
+    "doi": "",
+    "source_url": "https://www.iss.europa.eu/publications/commentary/artificial-intelligence-real-politics-what-albanias-ai-minister-means-eu",
+    "tags": [
+      "Diella",
+      "欧盟入盟",
+      "政治改革"
+    ],
+    "reading_level": "已读EUISS官方原站摘要及完整正文；非仅目录或镜像片段",
+    "review_role": "辅助材料：合法性、网络安全与外部技术依赖的风险框架。",
+    "limitations": "未读全文，不用作具体实施或效果的事实依据。",
+    "key_points": [
+      "Diella的公共权威形象会带来合法性、可追溯性及人类责任问题。",
+      "评论建议保留人类签署和监督，强化网络安全、机构能力，并评估外部模型与云服务依赖。"
+    ],
+    "key_points_basis": "EUISS官方原站完整正文，2026-10-29核读",
+    "view_kind": "机构政策评论观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "网络原文",
+        "text": "BÔMONT C, ZORIĆ B. Artificial intelligence, real politics: What Albania's AI Minister means for EU accession[EB/OL]. European Union Institute for Security Studies, (2025-10-17)[2026-10-29]. https://www.iss.europa.eu/publications/commentary/artificial-intelligence-real-politics-what-albanias-ai-minister-means-eu.",
+        "note": "机构政策评论；本轮已读官方原站正文，文中个别时间及人名表述仍须与政府原件交叉核验。",
+        "year": "2025",
+        "url": "https://www.iss.europa.eu/publications/commentary/artificial-intelligence-real-politics-what-albanias-ai-minister-means-eu",
+        "ris_type": "ELEC"
+      }
+    ],
+    "citation": "BÔMONT C, ZORIĆ B. Artificial intelligence, real politics: What Albania's AI Minister means for EU accession[EB/OL]. European Union Institute for Security Studies, (2025-10-17)[2026-10-29]. https://www.iss.europa.eu/publications/commentary/artificial-intelligence-real-politics-what-albanias-ai-minister-means-eu.",
+    "selection": "supplement",
+    "selection_label": "辅助材料",
+    "authority_label": "EUISS机构政策评论",
+    "authority_reason": "本轮定位并核读欧盟机构EUISS的官方原站全文；作者、日期、机构均可追溯，不再依赖镜像目录。",
+    "supports": "合法性、网络安全与外部技术依赖的风险框架。",
+    "does_not_support": "不是同行评审效果研究；文中个别历史表述不宜未经核验转引。",
+    "authority_sources": [
+      "https://www.iss.europa.eu/publications/commentary/artificial-intelligence-real-politics-what-albanias-ai-minister-means-eu"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M01",
+    "category": "方法与问责",
+    "title": "An Objective Corruption Risk Index Using Public Procurement Data",
+    "authors": [
+      "Mihály Fazekas",
+      "István János Tóth",
+      "Lawrence Peter King"
+    ],
+    "year": "2016",
+    "type": "期刊指标构建与验证",
+    "doi": "10.1007/s10610-016-9308-z",
+    "source_url": "https://www.repository.cam.ac.uk/items/017e6178-864b-4dd8-a22f-6cb8818c8ac0",
+    "tags": [
+      "廉洁测量",
+      "红旗",
+      "风险指标"
+    ],
+    "reading_level": "已读摘要与指标构建/效度相关段落",
+    "review_role": "核心：采购廉洁测量",
+    "method": "合同级腐败风险指数及外部关联效度",
+    "limitations": "客观行为风险代理仍不能直接替代贿赂或司法确认。",
+    "key_points": [
+      "可利用竞争受限、重复授标等采购行为信号构造合同级腐败风险指数。",
+      "指数通过若干外部关联获得效度支持，但风险分数不能直接替代个案腐败认定。"
+    ],
+    "key_points_basis": "摘要、指标构建与效度相关正文",
+    "view_kind": "方法贡献",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "FAZEKAS M, TÓTH I J, KING L P. An Objective Corruption Risk Index Using Public Procurement Data[J]. European Journal on Criminal Policy and Research, 2016, 22(3): 369–397. DOI: 10.1007/s10610-016-9308-z.",
+        "note": "研究档案中为接受稿；正式发表信息已核。",
+        "year": "2016",
+        "journal": "European Journal on Criminal Policy and Research",
+        "volume": "22",
+        "issue": "3",
+        "pages": "369–397",
+        "doi": "10.1007/s10610-016-9308-z",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "FAZEKAS M, TÓTH I J, KING L P. An Objective Corruption Risk Index Using Public Procurement Data[J]. European Journal on Criminal Policy and Research, 2016, 22(3): 369–397. DOI: 10.1007/s10610-016-9308-z.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Springer Science and Business Media LLC、刊物/会议European Journal on Criminal Policy and Research及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://www.repository.cam.ac.uk/items/017e6178-864b-4dd8-a22f-6cb8818c8ac0",
+      "https://api.crossref.org/works/10.1007/s10610-016-9308-z"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M02",
+    "category": "方法与问责",
+    "title": "Can Electronic Procurement Improve Infrastructure Provision? Evidence from Public Works in India and Indonesia",
+    "authors": [
+      "Sean Lewis-Faupel",
+      "Yusuf Neggers",
+      "Benjamin A. Olken",
+      "Rohini Pande"
+    ],
+    "year": "2014工作稿/2016正式版",
+    "type": "准实验采购改革评估",
+    "doi": "10.1257/pol.20140258",
+    "source_url": "https://dspace.mit.edu/entities/publication/fb8ee57e-d3db-42c8-a295-b7a21eaeb6d0",
+    "tags": [
+      "电子采购",
+      "因果推断",
+      "质量",
+      "比较设计"
+    ],
+    "reading_level": "已读正式版机构摘要及本地工作稿研究设计相关部分",
+    "review_role": "核心：电子采购评估的比较基准",
+    "method": "印度与印尼电子采购采用差异的准实验",
+    "limitations": "电子采购不等于AI；本地是2014工作稿，正式发表2016；不可直接外推效应到Diella。",
+    "key_points": [
+      "研究未发现电子采购降低价格的证据，但发现道路质量或履约及时性改善。",
+      "电子采购可能促进更高质量承包商、尤其外地承包商进入，政策收益不能只用降价衡量。"
+    ],
+    "key_points_basis": "正式版机构摘要及本地工作稿相关内容",
+    "view_kind": "准实验研究发现",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "本地工作稿（2014）",
+        "text": "LEWIS-FAUPEL S, NEGGERS Y, OLKEN B A, et al. Can Electronic Procurement Improve Infrastructure Provision? Evidence from Public Works in India and Indonesia[R/OL]. Cambridge, MA: National Bureau of Economic Research, 2014: Working Paper 20344[2026-10-29]. https://www.nber.org/papers/w20344.",
+        "note": "研究档案中的PDF为NBER工作论文，正式发表版为2016年。",
+        "year": "2014",
+        "publisher": "National Bureau of Economic Research",
+        "url": "https://www.nber.org/papers/w20344",
+        "ris_type": "RPRT"
+      },
+      {
+        "label": "正式发表版",
+        "text": "LEWIS-FAUPEL S, NEGGERS Y, OLKEN B A, et al. Can Electronic Procurement Improve Infrastructure Provision? Evidence from Public Works in India and Indonesia[J]. American Economic Journal: Economic Policy, 2016, 8(3): 258–283. DOI: 10.1257/pol.20140258.",
+        "note": "出版方正式摘要与出版信息已核；研究档案中的PDF为2014年工作稿。",
+        "year": "2016",
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "8",
+        "issue": "3",
+        "pages": "258–283",
+        "doi": "10.1257/pol.20140258",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "LEWIS-FAUPEL S, NEGGERS Y, OLKEN B A, et al. Can Electronic Procurement Improve Infrastructure Provision? Evidence from Public Works in India and Indonesia[R/OL]. Cambridge, MA: National Bureau of Economic Research, 2014: Working Paper 20344[2026-10-29]. https://www.nber.org/papers/w20344.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方American Economic Association、刊物/会议American Economic Journal: Economic Policy及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://dspace.mit.edu/entities/publication/fb8ee57e-d3db-42c8-a295-b7a21eaeb6d0",
+      "https://api.crossref.org/works/10.1257/pol.20140258"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M03",
+    "category": "方法与问责",
+    "title": "Public procurement of artificial intelligence systems: new risks and future proofing",
+    "authors": [
+      "Merve Hickok"
+    ],
+    "year": "2022在线/2024卷期",
+    "type": "期刊治理研究",
+    "doi": "10.1007/s00146-022-01572-2",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9526785/",
+    "tags": [
+      "采购AI",
+      "供应商",
+      "问责"
+    ],
+    "reading_level": "已读PMC网页摘要、方法与问责正文；目标PDF未获",
+    "review_role": "核心：购买AI系统的供应商治理",
+    "method": "文献与政策/倡议文本的规范分析",
+    "limitations": "使用AI采购与采购AI系统是不同问题；误抓到的引文附件已隔离，不列目标PDF。",
+    "key_points": [
+      "政府采购AI系统会引入供应商依赖、多层责任、不透明及机构能力不足等风险。",
+      "作者主张建立AI专门尽职调查、持续监督与采购指引，保护基本权利和正当程序。"
+    ],
+    "key_points_basis": "PMC网页摘要、方法与问责正文",
+    "view_kind": "治理研究观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "HICKOK M. Public procurement of artificial intelligence systems: new risks and future proofing[J]. AI & SOCIETY, 2024, 39(3): 1213–1227. DOI: 10.1007/s00146-022-01572-2.",
+        "note": "2022-10-02先行网络发表，2024年编入卷期；本地保存公开网页全文而非目标PDF。出版方标为Open Forum。",
+        "year": "2024",
+        "journal": "AI & SOCIETY",
+        "volume": "39",
+        "issue": "3",
+        "pages": "1213–1227",
+        "doi": "10.1007/s00146-022-01572-2",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "HICKOK M. Public procurement of artificial intelligence systems: new risks and future proofing[J]. AI & SOCIETY, 2024, 39(3): 1213–1227. DOI: 10.1007/s00146-022-01572-2.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式期刊Open Forum文章",
+    "authority_reason": "Springer出版方核定作者、DOI、2022网络发表及2024卷期；文章类型为Open Forum，不能据此称其为实证效果论文。",
+    "supports": "政府采购AI系统的尽职调查、供应商与制度风险。",
+    "does_not_support": "不直接评估以AI进行采购的廉洁效果。",
+    "authority_sources": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9526785/",
+      "https://link.springer.com/article/10.1007/s00146-022-01572-2"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M04",
+    "category": "方法与问责",
+    "title": "Monitoring Corruption: Evidence from a Field Experiment in Indonesia",
+    "authors": [
+      "Benjamin A. Olken"
+    ],
+    "year": "2007",
+    "type": "随机现场实验",
+    "doi": "10.1086/517935",
+    "source_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/27_Olken_Monitoring_Corruption.pdf",
+    "tags": [
+      "腐败测量",
+      "独立审计",
+      "实验"
+    ],
+    "reading_level": "已读论文摘要、独立工程核验与实验设计相关段落",
+    "review_role": "核心：真实腐败研究可以怎样做",
+    "method": "印尼道路项目的随机审计实验",
+    "limitations": "缺失支出为经独立工程核验的测量结果，仍须解释测量误差；不是Diella或AI评估。",
+    "key_points": [
+      "在印尼道路项目的随机实验中，提高政府审计概率减少了独立工程核价测得的缺失支出。",
+      "基层参与的平均效果较有限，其表现受搭便车和精英俘获等条件影响。"
+    ],
+    "key_points_basis": "论文摘要、独立核价与实验设计",
+    "view_kind": "随机实验发现",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "OLKEN B A. Monitoring Corruption: Evidence from a Field Experiment in Indonesia[J]. Journal of Political Economy, 2007, 115(2): 200–249. DOI: 10.1086/517935.",
+        "note": "",
+        "year": "2007",
+        "journal": "Journal of Political Economy",
+        "volume": "115",
+        "issue": "2",
+        "pages": "200–249",
+        "doi": "10.1086/517935",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "OLKEN B A. Monitoring Corruption: Evidence from a Field Experiment in Indonesia[J]. Journal of Political Economy, 2007, 115(2): 200–249. DOI: 10.1086/517935.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方University of Chicago Press、刊物/会议Journal of Political Economy及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://www.povertyactionlab.org/sites/default/files/research-paper/27_Olken_Monitoring_Corruption.pdf",
+      "https://api.crossref.org/works/10.1086/517935"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M05",
+    "category": "方法与问责",
+    "title": "Understanding Process Tracing",
+    "authors": [
+      "David Collier"
+    ],
+    "year": "2011",
+    "type": "定性因果推断方法",
+    "doi": "10.1017/S1049096511001429",
+    "source_url": "https://escholarship.org/uc/item/4fh4z41c",
+    "tags": [
+      "过程追踪",
+      "定性",
+      "因果"
+    ],
+    "reading_level": "已读摘要与过程追踪框架",
+    "review_role": "核心：定性因果推断",
+    "method": "过程追踪的诊断证据与因果过程观察",
+    "limitations": "访谈数量、意见一致本身不构成充分因果证据。",
+    "key_points": [
+      "过程追踪通过系统检验诊断性证据及因果过程观察，帮助解释具体结果怎样发生。",
+      "严谨描述和证据所处的因果顺序是基础；定性分析能够提供额外的因果推断力。"
+    ],
+    "key_points_basis": "摘要及过程追踪框架",
+    "view_kind": "方法贡献",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "正式发表版",
+        "text": "COLLIER D. Understanding Process Tracing[J]. PS: Political Science & Politics, 2011, 44(4): 823–830. DOI: 10.1017/S1049096511001429.",
+        "note": "",
+        "year": "2011",
+        "journal": "PS: Political Science & Politics",
+        "volume": "44",
+        "issue": "4",
+        "pages": "823–830",
+        "doi": "10.1017/S1049096511001429",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "COLLIER D. Understanding Process Tracing[J]. PS: Political Science & Politics, 2011, 44(4): 823–830. DOI: 10.1017/S1049096511001429.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Cambridge University Press (CUP)、刊物/会议PS: Political Science &amp; Politics及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://escholarship.org/uc/item/4fh4z41c",
+      "https://api.crossref.org/works/10.1017/S1049096511001429"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M06",
+    "category": "方法与问责",
+    "title": "Difference-in-Differences with Multiple Time Periods",
+    "authors": [
+      "Brantly Callaway",
+      "Pedro H. C. Sant'Anna"
+    ],
+    "year": "2020版本预印本（2018首投）/2021正式版",
+    "type": "分期处理因果评估方法",
+    "doi": "10.1016/j.jeconom.2020.12.001",
+    "source_url": "https://arxiv.org/abs/1803.09015",
+    "tags": [
+      "DiD",
+      "分期上线",
+      "反事实"
+    ],
+    "reading_level": "已读摘要及多期/分期处理识别框架",
+    "review_role": "核心：可用的准实验研究设计",
+    "method": "多期、异质处理时点的DiD",
+    "limitations": "需真实处理、可比对照及识别假设；下载arXiv版本。",
+    "key_points": [
+      "论文建立多期、不同处理时点下的分组—时间处理效应识别、估计与推断框架。",
+      "比较设计依赖可论证的平行趋势等假设，并应显式处理效应异质性。"
+    ],
+    "key_points_basis": "摘要及分期处理识别框架",
+    "view_kind": "方法贡献",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "本地预印本（2020版本）",
+        "text": "CALLAWAY B, SANT’ANNA P H C. Difference-in-Differences with Multiple Time Periods[EB/OL]. arXiv:1803.09015, (2020-12-01)[2026-10-29]. https://arxiv.org/abs/1803.09015.",
+        "note": "首次提交于2018；研究档案中的PDF题名页版本日期2020-12-01，不冒充2021年期刊版。",
+        "year": "2020",
+        "url": "https://arxiv.org/abs/1803.09015",
+        "ris_type": "UNPB"
+      },
+      {
+        "label": "正式发表版",
+        "text": "CALLAWAY B, SANT’ANNA P H C. Difference-in-Differences with Multiple Time Periods[J]. Journal of Econometrics, 2021, 225(2): 200–230. DOI: 10.1016/j.jeconom.2020.12.001.",
+        "note": "正式版元数据已核；研究档案中为题名页标2020-12-01的arXiv版本。",
+        "year": "2021",
+        "journal": "Journal of Econometrics",
+        "volume": "225",
+        "issue": "2",
+        "pages": "200–230",
+        "doi": "10.1016/j.jeconom.2020.12.001",
+        "ris_type": "JOUR"
+      }
+    ],
+    "citation": "CALLAWAY B, SANT’ANNA P H C. Difference-in-Differences with Multiple Time Periods[EB/OL]. arXiv:1803.09015, (2020-12-01)[2026-10-29]. https://arxiv.org/abs/1803.09015.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方Elsevier BV、刊物/会议Journal of Econometrics及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://arxiv.org/abs/1803.09015",
+      "https://api.crossref.org/works/10.1016/j.jeconom.2020.12.001"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "M07",
+    "category": "方法与问责",
+    "title": "What to account for when accounting for algorithms: a systematic literature review on algorithmic accountability",
+    "authors": [
+      "Maranke Wieringa"
+    ],
+    "year": "2020",
+    "type": "系统文献综述",
+    "doi": "10.1145/3351095.3372833",
+    "source_url": "https://dspace.library.uu.nl/bitstream/handle/1874/414522/3351095.3372833.pdf",
+    "tags": [
+      "问责",
+      "角色",
+      "生命周期"
+    ],
+    "reading_level": "已读摘要和问责关系/生命周期相关段落",
+    "review_role": "核心：问责机制的组成",
+    "method": "算法问责系统文献综述",
+    "limitations": "机制框架本身不证明反腐成效。",
+    "key_points": [
+      "算法问责应作为行动者向特定论坛解释并接受评价的关系来设计，而非仅公开技术信息。",
+      "需要沿系统生命周期明确问责对象、角色、标准与可能后果。"
+    ],
+    "key_points_basis": "摘要、问责关系与生命周期正文",
+    "view_kind": "综述观点",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "ACM正式会议论文",
+        "text": "WIERINGA M. What to account for when accounting for algorithms: a systematic literature review on algorithmic accountability[C]//Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. New York: ACM, 2020: 1–18. DOI: 10.1145/3351095.3372833.",
+        "note": "",
+        "year": "2020",
+        "publisher": "ACM",
+        "journal": "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency",
+        "pages": "1–18",
+        "doi": "10.1145/3351095.3372833",
+        "ris_type": "CPAPER"
+      }
+    ],
+    "citation": "WIERINGA M. What to account for when accounting for algorithms: a systematic literature review on algorithmic accountability[C]//Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. New York: ACM, 2020: 1–18. DOI: 10.1145/3351095.3372833.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "正式学术出版",
+    "authority_reason": "作者、题名、出版方ACM、刊物/会议Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency及DOI相互对应；版本差异单独标记。",
+    "supports": "支持对应的理论、方法或原案例结果；详见主要观点及阅读深度。",
+    "does_not_support": "不能仅凭刊物、DOI或其他国家的结果认定Diella已经减少腐败。",
+    "authority_sources": [
+      "https://dspace.library.uu.nl/bitstream/handle/1874/414522/3351095.3372833.pdf",
+      "https://api.crossref.org/works/10.1145/3351095.3372833"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P01",
+    "category": "原始制度资料",
+    "title": "Annual Report 2025 – Public Procurement Agency of Albania",
+    "authors": [
+      "Public Procurement Agency of Albania"
+    ],
+    "year": "2025报告/2026发布",
+    "type": "政府年报",
+    "doi": "",
+    "source_url": "https://www.app.gov.al/about-us/annual-reports/",
+    "tags": [
+      "阿尔巴尼亚",
+      "采购",
+      "统计",
+      "基线"
+    ],
+    "reading_level": "已核目录、采购统计章节与AI相关关键词；未通读233页",
+    "review_role": "原始制度资料：统计基线",
+    "limitations": "政府自报、口径需统一；不能把2025改善直接归因于Diella。",
+    "key_points": [
+      "汇总阿尔巴尼亚采购竞争、程序、合同执行和监督的年度统计与工作情况。",
+      "把AI采购系统建设及法律指引更新列入改革安排，可用于核对政策过程与基线。"
+    ],
+    "key_points_basis": "目录、采购章节及AI安排相关正文",
+    "view_kind": "资料主要内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "官方年报",
+        "text": "Public Procurement Agency of Albania. Annual Report 2025 – Public Procurement Agency of Albania[R/OL]. 2026[2026-10-29]. https://www.app.gov.al/about-us/annual-reports/.",
+        "note": "2025是统计期间，发布于2026；不使用报告期代替出版年份。",
+        "year": "2026",
+        "url": "https://www.app.gov.al/about-us/annual-reports/",
+        "ris_type": "RPRT"
+      }
+    ],
+    "citation": "Public Procurement Agency of Albania. Annual Report 2025 – Public Procurement Agency of Albania[R/OL]. 2026[2026-10-29]. https://www.app.gov.al/about-us/annual-reports/.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "采购主管机构原始年报",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "采购规模、程序及机构自报的改革背景。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://www.app.gov.al/about-us/annual-reports/"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P02",
+    "category": "原始制度资料",
+    "title": "Raporti Vjetor 2025 – Komisioni i Prokurimit Publik",
+    "authors": [
+      "Public Procurement Commission"
+    ],
+    "year": "2025报告/2026发布",
+    "type": "政府投诉审查年报",
+    "doi": "",
+    "source_url": "https://www.konsultimipublik.al/konsultime/48",
+    "tags": [
+      "采购投诉",
+      "复核",
+      "问责"
+    ],
+    "reading_level": "已核封面、目录、投诉统计结构；未逐项复算",
+    "review_role": "原始制度资料：投诉与复核",
+    "limitations": "投诉变化有发现与申诉能力变化的混合影响。",
+    "key_points": [
+      "汇总采购投诉、争议阶段、审查活动及制度工作，提供复核机制的原始资料。",
+      "本轮尚未逐项复算统计，不据投诉数量直接判断腐败增减。"
+    ],
+    "key_points_basis": "封面、目录与投诉统计结构",
+    "view_kind": "资料内容与核验范围",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "官方年报",
+        "text": "Komisioni i Prokurimit Publik. Raporti Vjetor 2025 – Komisioni i Prokurimit Publik[R/OL]. 2026[2026-10-29]. https://www.konsultimipublik.al/konsultime/48.",
+        "note": "2025是统计期间；发布平台登记于2026。",
+        "year": "2026",
+        "url": "https://www.konsultimipublik.al/konsultime/48",
+        "ris_type": "RPRT"
+      }
+    ],
+    "citation": "Komisioni i Prokurimit Publik. Raporti Vjetor 2025 – Komisioni i Prokurimit Publik[R/OL]. 2026[2026-10-29]. https://www.konsultimipublik.al/konsultime/48.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "采购投诉审查机构原始年报",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "投诉、复核程序及统计结构。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://www.konsultimipublik.al/konsultime/48"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P03",
+    "category": "原始制度资料",
+    "title": "Albania 2025 Report",
+    "authors": [
+      "European Commission"
+    ],
+    "year": "2025",
+    "type": "国际机构国别报告",
+    "doi": "",
+    "source_url": "https://enlargement.ec.europa.eu/document/download/fe9138b7-90fe-4277-a12c-3a03f6d1957f_en?filename=albania-report-2025.pdf",
+    "tags": [
+      "公共采购",
+      "欧盟",
+      "背景"
+    ],
+    "reading_level": "本次已获完整PDF；核采购相关章节，非逐页通读",
+    "review_role": "原始制度资料：外部制度评价",
+    "limitations": "国别报告不提供Diella净效果识别；16.5%为2024采购市场占GDP口径。",
+    "key_points": [
+      "报告继续要求改善竞争性采购、机构能力以及相关法律与欧盟规则的一致性。",
+      "记录采购统计和中央采购组织等改革进展，可用于识别AI之外的共同变化。"
+    ],
+    "key_points_basis": "公共采购章节",
+    "view_kind": "机构评估内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "欧委会国别报告",
+        "text": "European Commission. Albania 2025 Report[R/OL]. European Commission, (2025-11-04)[2026-10-29]. https://enlargement.ec.europa.eu/document/download/fe9138b7-90fe-4277-a12c-3a03f6d1957f_en?filename=albania-report-2025.pdf.",
+        "note": "文号SWD(2025)750 final。",
+        "year": "2025",
+        "url": "https://enlargement.ec.europa.eu/document/download/fe9138b7-90fe-4277-a12c-3a03f6d1957f_en?filename=albania-report-2025.pdf",
+        "ris_type": "RPRT"
+      }
+    ],
+    "citation": "European Commission. Albania 2025 Report[R/OL]. European Commission, (2025-11-04)[2026-10-29]. https://enlargement.ec.europa.eu/document/download/fe9138b7-90fe-4277-a12c-3a03f6d1957f_en?filename=albania-report-2025.pdf.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "欧盟委员会国别报告",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "采购制度、竞争与入盟改革的外部制度评估。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://enlargement.ec.europa.eu/document/download/fe9138b7-90fe-4277-a12c-3a03f6d1957f_en?filename=albania-report-2025.pdf"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P04",
+    "category": "原始制度资料",
+    "title": "Red Flags in Public Procurement: A guide to using data to detect and mitigate risks",
+    "authors": [
+      "Open Contracting Partnership"
+    ],
+    "year": "2024",
+    "type": "指标方法指南",
+    "doi": "",
+    "source_url": "https://www.open-contracting.org/resources/red-flags-in-public-procurement-a-guide-to-using-data-to-detect-and-mitigate-risks/",
+    "tags": [
+      "红旗",
+      "OCDS",
+      "操作化"
+    ],
+    "reading_level": "已读指标方法框架、风险与证据区分；未逐项复算73指标",
+    "review_role": "原始制度资料：风险指标操作化",
+    "limitations": "指标须适配法律、行业和数据口径，不是腐败裁决。",
+    "key_points": [
+      "提供73项采购风险指标及定义、计算方法和所需数据字段，覆盖采购生命周期。",
+      "风险信号用于确定进一步调查方向，并不构成腐败或违法的自动裁定。"
+    ],
+    "key_points_basis": "指南方法框架与风险定义",
+    "view_kind": "指南主要内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "机构指标指南",
+        "text": "Open Contracting Partnership. Red Flags in Public Procurement: A guide to using data to detect and mitigate risks[R/OL]. 2024[2026-10-29]. https://www.open-contracting.org/resources/red-flags-in-public-procurement-a-guide-to-using-data-to-detect-and-mitigate-risks/.",
+        "note": "指标工具指南，不是Diella成效评估。",
+        "year": "2024",
+        "url": "https://www.open-contracting.org/resources/red-flags-in-public-procurement-a-guide-to-using-data-to-detect-and-mitigate-risks/",
+        "ris_type": "RPRT"
+      }
+    ],
+    "citation": "Open Contracting Partnership. Red Flags in Public Procurement: A guide to using data to detect and mitigate risks[R/OL]. 2024[2026-10-29]. https://www.open-contracting.org/resources/red-flags-in-public-procurement-a-guide-to-using-data-to-detect-and-mitigate-risks/.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "专业开放采购机构指南",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "风险指标定义及数据测量方案。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://www.open-contracting.org/resources/red-flags-in-public-procurement-a-guide-to-using-data-to-detect-and-mitigate-risks/"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P05",
+    "category": "原始制度资料",
+    "title": "Regjistri i kërkesave dhe përgjigjeve 2025",
+    "authors": [
+      "Albanian Government"
+    ],
+    "year": "登记年度2025；出版年未核定（2026/01上传）",
+    "type": "政府信息公开答复登记",
+    "doi": "",
+    "source_url": "https://www.kryeministria.al/wp-content/uploads/2026/01/Regjistri-i-kerkesave-dhe-pergjigjeve-2025.pdf",
+    "tags": [
+      "Diella",
+      "实际职能",
+      "官方答复"
+    ],
+    "reading_level": "已读涉及Diella的信息公开答复",
+    "review_role": "原始制度资料：官方职能解释",
+    "limitations": "机构自述需与真实流程日志、使用合同核对。",
+    "key_points": [
+      "涉及Diella的官方答复将其描述为与现有国家系统交互、提供公共服务与分析支持的系统。",
+      "可据此核对官方如何解释其功能；仍需实际流程记录确认具体使用范围。"
+    ],
+    "key_points_basis": "信息公开登记中的Diella相关答复",
+    "view_kind": "官方答复内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "官方信息公开登记",
+        "text": "Albanian Government. Regjistri i kërkesave dhe përgjigjeve 2025[EB/OL]. [出版年不详][2026-10-29]. https://www.kryeministria.al/wp-content/uploads/2026/01/Regjistri-i-kerkesave-dhe-pergjigjeve-2025.pdf.",
+        "note": "题名中的2025为登记覆盖年度；上传路径为2026/01。独立出版日期未核定，不据此推定出版年。",
+        "year": "",
+        "url": "https://www.kryeministria.al/wp-content/uploads/2026/01/Regjistri-i-kerkesave-dhe-pergjigjeve-2025.pdf",
+        "ris_type": "ELEC"
+      }
+    ],
+    "citation": "Albanian Government. Regjistri i kërkesave dhe përgjigjeve 2025[EB/OL]. [出版年不详][2026-10-29]. https://www.kryeministria.al/wp-content/uploads/2026/01/Regjistri-i-kerkesave-dhe-pergjigjeve-2025.pdf.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "政府信息公开原件",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "政府对Diella功能的正式答复。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://www.kryeministria.al/wp-content/uploads/2026/01/Regjistri-i-kerkesave-dhe-pergjigjeve-2025.pdf"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P06",
+    "category": "原始制度资料",
+    "title": "Njoftim vendimmarrjeje – Diella presidential decrees, 8 October 2026",
+    "authors": [
+      "Constitutional Court of Albania"
+    ],
+    "year": "2026",
+    "type": "宪法法院通告（网页）",
+    "doi": "",
+    "source_url": "https://www.gjykatakushtetuese.gov.al/njoftim-vendimmarrjeje-12/",
+    "tags": [
+      "Diella",
+      "权限",
+      "问责"
+    ],
+    "reading_level": "已读原始官方通告正文",
+    "review_role": "原始制度资料：权限与问责",
+    "limitations": "不是完整判决书；未作全面实体合宪背书。",
+    "key_points": [
+      "法院通告强调AI不能改变公共权力、责任和问责的宪法法律秩序。",
+      "法院驳回相关申请，并不等于对虚拟部长安排作全面的实体合宪背书。"
+    ],
+    "key_points_basis": "官方决定通告正文，非完整判决书",
+    "view_kind": "官方通告内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "法院通告",
+        "text": "Constitutional Court of Albania. Njoftim vendimmarrjeje – Diella presidential decrees, 8 October 2026[EB/OL]. (2026-10-08)[2026-10-29]. https://www.gjykatakushtetuese.gov.al/njoftim-vendimmarrjeje-12/.",
+        "note": "仅为法院决定通告，不是完整判决书。",
+        "year": "2026",
+        "url": "https://www.gjykatakushtetuese.gov.al/njoftim-vendimmarrjeje-12/",
+        "ris_type": "ELEC"
+      }
+    ],
+    "citation": "Constitutional Court of Albania. Njoftim vendimmarrjeje – Diella presidential decrees, 8 October 2026[EB/OL]. (2026-10-08)[2026-10-29]. https://www.gjykatakushtetuese.gov.al/njoftim-vendimmarrjeje-12/.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "宪法法院官方通告",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "通告明确表述的裁判决定及理由。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://www.gjykatakushtetuese.gov.al/njoftim-vendimmarrjeje-12/"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P07",
+    "category": "原始制度资料",
+    "title": "Albania records positive progress in Public Procurement – 11 May 2026",
+    "authors": [
+      "Albanian Government"
+    ],
+    "year": "2026",
+    "type": "政府讲话原文（网页）",
+    "doi": "",
+    "source_url": "https://www.kryeministria.al/en/newsroom/shqiperia-ecuri-pozitive-ne-fushen-e-prokurimeve-publike/",
+    "tags": [
+      "Diella",
+      "部署",
+      "中央采购"
+    ],
+    "reading_level": "2026-10-29通过官方网页核读英文正文；未取得可用本地正文留存",
+    "review_role": "原始制度资料：建设与部署时间",
+    "limitations": "建设承诺不等于实际合同已受AI处理；中央采购改革可能为共同干预。",
+    "key_points": [
+      "政府介绍AI电子采购系统的技术规格和建设安排，拟连接登记数据并覆盖多个采购环节。",
+      "讲话同时介绍中央采购集中化；这些政策承诺不能直接等同实际合同已经受到AI处理。"
+    ],
+    "key_points_basis": "2026-05-11政府讲话正文",
+    "view_kind": "官方讲话内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "政府讲话",
+        "text": "Albanian Government. Albania records positive progress in Public Procurement – 11 May 2026[EB/OL]. (2026-05-11)[2026-10-29]. https://www.kryeministria.al/en/newsroom/shqiperia-ecuri-pozitive-ne-fushen-e-prokurimeve-publike/.",
+        "note": "可引用政府的部署安排或主张；不当作独立的效果验证。",
+        "year": "2026",
+        "url": "https://www.kryeministria.al/en/newsroom/shqiperia-ecuri-pozitive-ne-fushen-e-prokurimeve-publike/",
+        "ris_type": "ELEC"
+      }
+    ],
+    "citation": "Albanian Government. Albania records positive progress in Public Procurement – 11 May 2026[EB/OL]. (2026-05-11)[2026-10-29]. https://www.kryeministria.al/en/newsroom/shqiperia-ecuri-pozitive-ne-fushen-e-prokurimeve-publike/.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "政府讲话原文",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "政府的采购改革与系统建设安排。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://kryeministria.al/en/newsroom/shqiperia-ecuri-pozitive-ne-fushen-e-prokurimeve-publike/"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P08",
+    "category": "原始制度资料",
+    "title": "AI to enter Albania’s public procurement system this autumn – 7 October 2026",
+    "authors": [
+      "RTSH"
+    ],
+    "year": "2026",
+    "type": "公共媒体引述部长（网页）",
+    "doi": "",
+    "source_url": "https://rtsh.al/rti/en/ai-to-enter-albanias-public-procurement-system-this-autumn/",
+    "tags": [
+      "Diella",
+      "采购部署",
+      "时间"
+    ],
+    "reading_level": "已读报道正文",
+    "review_role": "辅助材料：追踪公开宣告的预期时间线。",
+    "limitations": "预计秋季进入采购不等于已核实具体上线合同。",
+    "key_points": [
+      "报道引述部长称，政府预计在2026年秋季将AI引入公共采购，细节仍在完善。",
+      "同时介绍采购信息与合同执行可追溯的制度安排，未提供合同级AI处理清单。"
+    ],
+    "key_points_basis": "2026-10-07报道正文",
+    "view_kind": "报道主要内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "公共媒体报道",
+        "text": "RTSH. AI to enter Albania’s public procurement system this autumn – 7 October 2026[EB/OL]. (2026-10-07)[2026-10-29]. https://rtsh.al/rti/en/ai-to-enter-albanias-public-procurement-system-this-autumn/.",
+        "note": "引述部长的预期安排，不证明合同级实际使用。",
+        "year": "2026",
+        "url": "https://rtsh.al/rti/en/ai-to-enter-albanias-public-procurement-system-this-autumn/",
+        "ris_type": "ELEC"
+      }
+    ],
+    "citation": "RTSH. AI to enter Albania’s public procurement system this autumn – 7 October 2026[EB/OL]. (2026-10-07)[2026-10-29]. https://rtsh.al/rti/en/ai-to-enter-albanias-public-procurement-system-this-autumn/.",
+    "selection": "supplement",
+    "selection_label": "辅助材料",
+    "authority_label": "公共媒体引述报道",
+    "authority_reason": "RTSH原站、署时与被引述的安排可核；证据强度低于原始政策/实施日志。",
+    "supports": "追踪公开宣告的预期时间线。",
+    "does_not_support": "不能当作系统确已上线或AI已处理采购的证明。",
+    "authority_sources": [
+      "https://rtsh.al/rti/en/ai-to-enter-albanias-public-procurement-system-this-autumn/"
+    ],
+    "authority_checked_at": "2026-10-29"
+  },
+  {
+    "id": "P10",
+    "category": "原始制度资料",
+    "title": "Governing with Artificial Intelligence: The State of Play and Way Forward in Core Government Functions",
+    "authors": [
+      "OECD"
+    ],
+    "year": "2025",
+    "type": "国际机构研究报告",
+    "doi": "10.1787/795de142-en",
+    "source_url": "https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html",
+    "tags": [
+      "AI采购",
+      "组织治理",
+      "比较"
+    ],
+    "reading_level": "已读公共采购章网页的应用、成熟度与风险部分；全报告非通读",
+    "review_role": "原始制度资料：AI政府应用比较",
+    "limitations": "跨国综合报告，不提供Diella因果评估。",
+    "key_points": [
+      "AI可用于政府服务、采购流程、风险识别与监督，但应用成熟度和实施条件存在明显差异。",
+      "公共采购中的数据偏差、解释性、组织能力和监督安排，应与效率收益一并评估。"
+    ],
+    "key_points_basis": "公共采购章的应用、成熟度与风险部分",
+    "view_kind": "跨国报告内容",
+    "citation_style": "GB/T 7714-2015",
+    "citation_variants": [
+      {
+        "label": "OECD报告",
+        "text": "OECD. Governing with Artificial Intelligence: The State of Play and Way Forward in Core Government Functions[R]. Paris: OECD Publishing, 2025. DOI: 10.1787/795de142-en.",
+        "note": "",
+        "year": "2025",
+        "publisher": "OECD Publishing",
+        "doi": "10.1787/795de142-en",
+        "ris_type": "RPRT"
+      }
+    ],
+    "citation": "OECD. Governing with Artificial Intelligence: The State of Play and Way Forward in Core Government Functions[R]. Paris: OECD Publishing, 2025. DOI: 10.1787/795de142-en.",
+    "selection": "core",
+    "selection_label": "正式书目",
+    "authority_label": "OECD正式研究报告",
+    "authority_reason": "发布主体、文件身份与本地原件/原生网页已核；一手材料的权威性限于其发布范围。",
+    "supports": "跨国政府AI应用、采购与治理条件。",
+    "does_not_support": "不能自动认定机构自述属实、因果归因成立或Diella已减少腐败。",
+    "authority_sources": [
+      "https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html"
+    ],
+    "authority_checked_at": "2026-10-29"
+  }
+]

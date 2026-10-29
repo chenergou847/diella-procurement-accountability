@@ -1,0 +1,14 @@
+﻿claim_id,evidence_type,statement,event_date,source_ids,locator,limit
+E01,government_claim,政府登记第47项说明Diella由AKSHI开发、与既有国家系统交互并提供公共服务与分析支持。,2025-11-06,P05,PDF物理第6页，第47项,官方功能解释，非项目操作日志
+E02,government_claim,政府讲话仍描述AI采购系统规格及建设阶段。,2026-05-11,P07,官方英文正文有关技术规格及建设的段落,不等于所有采购已经实际使用
+E03,government_claim,同次讲话同时介绍中央采购集中化。,2026-05-11,P07,官方英文正文有关Central Purchasing Operator的段落,共同改革可能影响结果，不能独归AI
+E04,secondary_report,RTSH引述部长预期在当年秋季引入AI采购。,2026-10-07,P08,报道正文前两段,预期安排不是验收或合同级使用证明
+E05,institutional_notice,宪法法院通告记载有关总统令申请的决定及法律理由。,2026-10-08,P06,法院通告正文,通告不是完整判决，不作全面合宪背书
+E06,source_fact,23条正式书目与4条辅助材料进入公开索引。,2026-10-29,,data/bibliography.json,是本项目范围综述的选用结果，不是全部研究数量
+E07,research_expectation,风险识别需经过可追溯记录、人工复核和有效纠正才可能改善结果。,,A01;M03;M07,第三部分提出的解释,本文待检验机制，不是已有估计
+E08,research_expectation,授标阶段受约束时，风险可能转移至需求、数据或合同变更。,,A03;M03,第三部分预期三,待检验，未断言Diella已发生风险转移
+E09,research_expectation,检测增强可能增加发现数量而不增加真实问题率。,,M01;P04,第三部分预期四,测量区分，不是Diella实测趋势
+E10,data_gap,尚未建立关联采购编号与AI模块及实际使用时间的合同级数据库。,2026-10-29,,本项目执行状态,未取得不等于不存在
+E11,data_gap,尚未确认合格对照、完整处理前后窗口或正式样本量。,2026-10-29,,本项目执行状态,定量设计取决于资料核验
+E12,source_fact,采购数据模板目前只有表头，没有实际采购样本。,2026-10-29,,data/procurement-template.csv,字段设计不是完成采集
+E13,data_gap,尚未开展正式采购编码、访谈或Diella效果估计。,2026-10-29,,本项目执行状态,不将研究计划视为经验结果

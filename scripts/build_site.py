@@ -17,7 +17,7 @@ def render_md(text):
         i=m.group(1)
         if i not in BY_ID:raise ValueError('引用不在公开书目：'+i)
         return '<a class="citation-ref" href="literature.html#'+i+'" title="'+esc(BY_ID[i]['title'])+'" aria-label="查看文献 '+i+'">'+i+'</a>'
-    text=re.sub(r'\[([ADMP]\d{2})\]',cite,text)
+    text=re.sub(r'\[([ADMP]\d{2})\](?!\()',cite,text)
     text=text.replace('../docs/literature.html','literature.html').replace('search-scope.md','https://github.com/chenergou847/diella-procurement-accountability/blob/main/research/search-scope.md')
     body=markdown.markdown(text,extensions=['tables','fenced_code','sane_lists'])
     body=re.sub(r'<table>(.*?)</table>',r'<div class="table-wrap"><table>\1</table></div>',body,flags=re.S)
@@ -29,26 +29,16 @@ def page(title,content,active,body_class=''):
     for key,value in values.items():text=text.replace(key,value)
     return text
 
-def reference_html(ids):
-    return '<ol class="reference-list">'+''.join('<li id="ref-'+i+'"><span class="ref-id">'+i+' · '+esc(BY_ID[i]['selection_label'])+'</span>'+esc(BY_ID[i]['citation'])+' <a href="literature.html#'+i+'">观点与版本 ↗</a></li>' for i in sorted(ids))+'</ol>'
-
-chunks=[];source_chunks=[];used=set()
+used=set()
 for n,(filename,anchor,title,question) in enumerate(SECTIONS,1):
     raw=(ROOT/'manuscript'/filename).read_text(encoding='utf-8').strip()
     used.update(re.findall(r'\[([ADMP]\d{2})\]',raw))
-    chunks.append('<section class="paper-section" id="'+anchor+'"><div class="section-no">SECTION '+str(n).zfill(2)+'</div>'+render_md(raw)+'</section>')
-    source_chunks.append(raw)
 unknown=used-set(BY_ID)
 if unknown:raise ValueError('未知引用：'+','.join(unknown))
-toc='<aside class="toc"><p class="toc-title">阅读目录 / CONTENTS</p><div class="toc-links">'+''.join('<a href="#'+a+'"><span>'+str(n).zfill(2)+'</span>'+t+'</a>' for n,(_,a,t,_) in enumerate(SECTIONS,1))+'</div><div class="toc-extra"><a href="#references">引用书目</a><a href="literature.html">浏览文献索引 ↗</a><a href="methods.html">具体研究方法 ↗</a></div><div class="reading-tools"><button id="font-toggle" aria-pressed="false">大字阅读</button><button id="print-page">打印 / 存为 PDF</button></div></aside>'
-hero='''<section class="hero" id="top"><p class="eyebrow">RESEARCH NOTE 01 / ALBANIA · DIELLA</p><h1>AI 能让公共采购<br>更廉洁吗？</h1><p class="subtitle">以阿尔巴尼亚 Diella 为切入的风险识别与问责机制设计</p><div class="statusline"><span class="status">六部分研究设计稿 v0.1</span><span>2026-10-29</span><span>实证分析尚未开展</span></div><div class="hero-actions"><a href="#introduction">开始阅读 ↓</a><a href="downloads/paper.md" download>下载 Markdown 研究稿 ↗</a><a href="literature.html">查看引用与主要观点 ↗</a></div></section><div class="proposal"><div class="label">待检验的核心解释</div><p>AI 的廉洁效应，取决于风险信号能否经过<strong>可追溯的记录、有理由的复核和可执行的纠正</strong>，最终改变具体采购结果。</p></div>'''
 chapter_rows=''.join('<tr><td>'+str(n).zfill(2)+' · '+esc(title)+'</td><td>'+esc(question)+'</td><td><a class="chapter-link" href="https://github.com/chenergou847/diella-procurement-accountability/blob/main/manuscript/'+filename+'">打开章节初稿 ↗</a></td></tr>' for n,(filename,anchor,title,question) in enumerate(SECTIONS,1))
-content='''<section class="hero" id="top"><p class="eyebrow">RESEARCH WORKSPACE / ALBANIA · DIELLA</p><h1>Diella 研究工作区</h1><p class="subtitle">AI 能让公共采购更廉洁吗？</p><p class="lead">现阶段按章节整理问题、文献与研究方案。这六部分是当前讨论范围，完整论文结构尚未确定。</p><div class="statusline"><span class="status">分章节初稿 · 待逐节讨论</span><span>2026-10-29</span></div><div class="hero-actions"><a href="literature.html">浏览文献与引用 ↗</a><a href="https://github.com/chenergou847/diella-procurement-accountability/tree/main/manuscript">打开章节目录 ↗</a></div></section><main id="main" class="library-main"><p class="eyebrow">CURRENT CHAPTERS / 当前材料</p><div class="table-wrap"><table><thead><tr><th>章节</th><th>本节要解决的问题</th><th>材料</th></tr></thead><tbody>'''+chapter_rows+'''</tbody></table></div><p class="library-end">现有文字为初步整理稿，尚未逐节确认，不作为完整报告或已经完成的实证论文。后续内容按讨论进度推进。</p></main>'''
+content='''<section class="hero" id="top"><p class="eyebrow">RESEARCH WORKSPACE / ALBANIA · DIELLA</p><h1>Diella 研究工作区</h1><p class="subtitle">AI 能让公共采购更廉洁吗？</p><p class="lead">现阶段按章节整理问题、文献与研究方案。参照完整论文功能表分阶段推进，本轮仅打磨以下六部分，其余模块不展开。</p><div class="statusline"><span class="status">当前六部分 · 工作稿 v0.2</span><span>2026-10-29</span></div><div class="hero-actions"><a href="literature.html">浏览文献与引用 ↗</a><a href="https://github.com/chenergou847/diella-procurement-accountability/tree/main/manuscript">打开章节目录 ↗</a></div></section><main id="main" class="library-main"><p class="eyebrow">CURRENT CHAPTERS / 当前材料</p><div class="table-wrap"><table><thead><tr><th>章节</th><th>本节要解决的问题</th><th>材料</th></tr></thead><tbody>'''+chapter_rows+'''</tbody></table></div><p class="library-end">现有文字为初步整理稿，尚未逐节确认，不作为完整报告或已经完成的实证论文。后续内容按讨论进度推进。</p></main>'''
 (DOCS/'index.html').write_text(page('章节工作区',content,'paper'),encoding='utf-8')
 
-refs='\n\n'.join('**['+i+']** '+BY_ID[i]['citation']+'\n\n选用类型：'+BY_ID[i]['selection_label']+'。'+BY_ID[i]['authority_label']+'。' for i in sorted(used))
-definitions='\n'.join('['+i+']: '+BY_ID[i]['source_url'] for i in sorted(used))
-paper='# AI 能让公共采购更廉洁吗？\n\n以阿尔巴尼亚 Diella 为切入的风险识别与问责机制设计\n\n**六部分研究设计稿 v0.1 · '+DATE+'。尚未开展合同级效果估计。**\n\n'+'\n\n'.join(source_chunks)+'\n\n## 引用书目\n\n'+refs+'\n\n'+definitions+'\n'
 # 用户明确要求按章节推进：不生成整篇汇编或整体报告下载。
 
 def card(r):

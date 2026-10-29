@@ -13,6 +13,13 @@ assert not any(r['id']=='D10' for r in rows)
 assert all('et al..' not in v['text'] for r in rows for v in r['citation_variants'])
 with (ROOT/'data/procurement-template.csv').open(encoding='utf-8-sig') as f:assert len(list(csv.DictReader(f)))==0
 ids={r['id'] for r in rows}
+chapters=list((ROOT/'manuscript').glob('*.md'))
+assert len(chapters)==6
+for chapter in chapters:
+    text=chapter.read_text(encoding='utf-8')
+    cited=set(re.findall(r'\[([ADMP]\d{2})\]',text))
+    assert cited and cited<=ids,'章节引用缺失或未选用来源：'+chapter.name
+    assert all('literature.html#'+i in text for i in cited),'章节引用不可定位：'+chapter.name
 with (ROOT/'data/claims.csv').open(encoding='utf-8-sig') as f:
     claims=list(csv.DictReader(f))
     for c in claims:assert all(i in ids for i in c['source_ids'].split(';') if i)
@@ -32,7 +39,7 @@ for path in (ROOT/'docs').glob('*.html'):
     assert 'Technocratic Spectacle or Democratic Innovation?' not in s
     if path.name=='index.html':
         assert s.count('class="chapter-link"')==6
-        assert '完整论文结构尚未确定' in s
+        assert '本轮仅打磨以下六部分' in s
         assert 'downloads/paper.md' not in s
 for path,p in pages.items():
     for href in p.links:

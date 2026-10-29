@@ -12,14 +12,14 @@
 
 | 材料 | 已有状态 | 当前可用范围 | 关键限制 |
 |---|---|---|---|
-| 采购局 2025 年报 [P01] | 本地 PDF 已核；阅读相关目录和章节 | 采购统计与政策背景 | 233 页未通读，统计未逐项复算 |
-| 投诉审查机构 2025 年报 [P02] | 本地 PDF 已核；核封面、目录及统计结构 | 复核程序及统计字段定位 | 不能将投诉数量直接视为腐败率 |
-| 欧委会 2025 国别报告 [P03] | 本地 PDF 已核；阅读相关部分 | 制度与入盟改革背景 | 不是 AI 处理清单或独立净效果评估 |
-| 政府信息公开登记 [P05] | 涉及 Diella 的答复已核读 | 官方职能解释与时间线 | 机构解释不等于操作日志 |
-| 政府 2026-05-11 讲话 [P07] | 本轮通过官方网页核读正文 | 建设安排及共同改革 | 此次终端未成功留存可用正文，使用原站链接复核 |
-| 宪法法院通告 [P06] | 官方通告正文已留存并核读 | 通告载明的决定及理由 | 不冒充完整判决 |
-| RTSH 部署报道 [P08] | 原生网页已核读 | 预期部署安排的辅助核对 | 是报道而非验收及实际使用证明 |
-| 采购指标与 AI 研究 [M01][P04][A01–A05] | 阅读深度逐条标记 | 概念、指标及方法依据 | 外部案例不能直接证明 Diella 结果 |
+| 采购局 2025 年报 [P01](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P01) | 本地 PDF 已核；阅读相关目录和章节 | 采购统计与政策背景 | 233 页未通读，统计未逐项复算 |
+| 投诉审查机构 2025 年报 [P02](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P02) | 本地 PDF 已核；核封面、目录及统计结构 | 复核程序及统计字段定位 | 不能将投诉数量直接视为腐败率 |
+| 欧委会 2025 国别报告 [P03](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P03) | 本地 PDF 已核；阅读相关部分 | 制度与入盟改革背景 | 不是 AI 处理清单或独立净效果评估 |
+| 政府信息公开登记 [P05](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P05) | 涉及 Diella 的答复已核读 | 官方职能解释与时间线 | 机构解释不等于操作日志 |
+| 政府 2026-05-11 讲话 [P07](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P07) | 本轮通过官方网页核读正文 | 建设安排及共同改革 | 此次终端未成功留存可用正文，使用原站链接复核 |
+| 宪法法院通告 [P06](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P06) | 官方通告正文已留存并核读 | 通告载明的决定及理由 | 不冒充完整判决 |
+| RTSH 部署报道 [P08](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P08) | 原生网页已核读 | 预期部署安排的辅助核对 | 是报道而非验收及实际使用证明 |
+| 采购指标与 AI 研究 [M01](https://chenergou847.github.io/diella-procurement-accountability/literature.html#M01)[P04](https://chenergou847.github.io/diella-procurement-accountability/literature.html#P04)[A01](https://chenergou847.github.io/diella-procurement-accountability/literature.html#A01)[A02](https://chenergou847.github.io/diella-procurement-accountability/literature.html#A02)[A03](https://chenergou847.github.io/diella-procurement-accountability/literature.html#A03)[A04](https://chenergou847.github.io/diella-procurement-accountability/literature.html#A04)[A05](https://chenergou847.github.io/diella-procurement-accountability/literature.html#A05) | 阅读深度逐条标记 | 概念、指标及方法依据 | 外部案例不能直接证明 Diella 结果 |
 
 ### 6.3 待建数据结构与缺口
 
@@ -27,11 +27,13 @@
 
 关键缺口是能够把采购项目与 AI 实际使用连接起来的处理记录，以及统一标准下的结果核验。尚未确认这些字段是否可批量公开获取，也未确定合格对照、处理前后窗口及正式样本量。缺少字段时不使用任命日期、政务交互量或全国腐败感知指数替代。
 
+本研究目前保存的是“文献与制度材料库”，尚不是“已经建成的采购效果数据库”。P01 和 P02 的年报首先用于确定口径及可追溯资料类型，不能仅因保存了文件就声称所有项目字段已可用。正式取证将先核验项目清单及字段可得性，再确定可分析的总体与时间范围；范围改变必须记录原因，而非为获得某种结果临时调整。
+
 缺失区分为未披露、未检得、文件不可读取、记录不适用和来源冲突；未知不编码为零。无法追踪全流程的项目仍可进入制度或描述分析，但不能直接进入要求该信息的因果估计。
 
 ### 6.4 编码、偏差与可复核性
 
-项目证据表记录来源 ID、公开地址、文件形成和获取时间、页码或段落、事件日期、观察内容、证据类型、竞争解释及判断。政府主张、第三方认定与研究者预期分开存储；采用预先定义的编码规则，并保留修订日志。
+项目证据表记录来源 ID、公开地址、文件形成和获取时间、页码或段落、事件日期、观察内容、证据类型、竞争解释及判断。政府主张、第三方认定与研究者预期分开存储；采用预先定义的编码规则，并保留修订日志。现有 `claims.csv` 是论断类型登记，不是已经完成的逐项目机制证据表，更不等于正式预注册。
 
 公开材料可能偏向已被发现、被投诉、被披露或便于公开的采购；技术输出也可能在机关决策之后才被引用。研究将检查材料选择、时间倒置、来源互相转引和语言翻译误差，并对不能区分的解释保留不确定性。档案留痕与来源互证可以提高可信度，却不自动消除全部选择偏差。
 

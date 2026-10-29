@@ -2,13 +2,13 @@
 
 以阿尔巴尼亚 Diella 为切入的风险识别与问责机制设计。
 
-**状态：六部分研究设计稿 v0.1，2026-10-29。未开展合同级效果估计。**
+**状态：分章节初稿，待逐节讨论，2026-10-29。六部分只是当前讨论范围，完整论文结构尚未确定；未开展合同级效果估计。**
 
-[阅读研究网页](https://chenergou847.github.io/diella-procurement-accountability/) · [浏览文献索引](https://chenergou847.github.io/diella-procurement-accountability/literature.html) · [阅读 Markdown 研究稿](paper.md)
+[打开章节工作区](https://chenergou847.github.io/diella-procurement-accountability/) · [浏览文献索引](https://chenergou847.github.io/diella-procurement-accountability/literature.html) · [查看章节草稿](manuscript/)
 
 本项目服务于《人工智能与国家治理》课堂研究。主问题是 Diella 的实际采购应用是否以及通过什么机制使采购更廉洁；不预设肯定或否定结论。研究区分政治宣布、技术建设与具体采购的真实使用，也区分程序透明、风险变化与经核实的采购问题。
 
-## 已有产出
+## 当前可讨论材料
 
 | 部分 | 内容 | 入口 |
 |---|---|---|
@@ -24,7 +24,6 @@
 ## 目录
 
 - `manuscript/`：六部分可编辑的 Markdown 源稿。
-- `paper.md`：由六部分合并生成的研究稿及引用书目。
 - `docs/`：可直接打开、适配窄屏与打印的静态网页；GitHub Pages 发布目录。
 - `data/bibliography.json`：筛选后的公开书目，不含个人电脑路径或未纳入条目。
 - `data/claims.csv`：当前稿件的事实、政府主张、研究预期和资料缺口登记。
@@ -36,7 +35,7 @@
 
 ## 使用与生成
 
-打开 `docs/index.html` 可阅读完整六部分，`docs/literature.html` 可筛选、检索和复制引用。正文与样式使用内嵌内容，基础阅读和检索不依赖联网获取数据；原始来源访问外网。
+打开 `docs/index.html` 可进入各章节草稿，`docs/literature.html` 可筛选、检索和复制引用。章节在 GitHub 中分别查看与修改，不合并包装为完整报告。文献页的基础阅读和检索不依赖联网获取数据；原始来源访问外网。
 
 ```bash
 python -m pip install -r requirements.txt

@@ -15,4 +15,4 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: python scripts/build_site.py
       - run: python scripts/validate.py
-      - run: git diff --exit-code -- docs paper.md
+      - run: git diff --exit-code -- docs

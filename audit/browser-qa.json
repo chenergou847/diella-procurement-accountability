@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-29",
+  "environment": "已发布GitHub Pages，实际浏览器交互与截图检查",
+  "literature_default_core": 23,
+  "literature_supplement_filter": 4,
+  "literature_all_filter": 27,
+  "keyword_search": "emerging technologies及Callaway分别返回1条",
+  "citation_version_switch": "A03切换为2021正式发表版通过",
+  "copy_to_browser_clipboard": "实际读取复制结果，与A03所选引文一致",
+  "responsive_viewport": "390×844；实际内容宽375px，页面滚动宽375px，无整体横向溢出",
+  "wide_table_behavior": "333px容器内464px表格独立横向滚动",
+  "reading_font_toggle": "aria-pressed由false切换为true",
+  "scope_correction": "文献页已验收；整体汇编已撤下，分章节工作区首页待新部署复核"
+}

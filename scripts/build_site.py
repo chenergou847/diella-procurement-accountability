@@ -42,14 +42,14 @@ unknown=used-set(BY_ID)
 if unknown:raise ValueError('未知引用：'+','.join(unknown))
 toc='<aside class="toc"><p class="toc-title">阅读目录 / CONTENTS</p><div class="toc-links">'+''.join('<a href="#'+a+'"><span>'+str(n).zfill(2)+'</span>'+t+'</a>' for n,(_,a,t,_) in enumerate(SECTIONS,1))+'</div><div class="toc-extra"><a href="#references">引用书目</a><a href="literature.html">浏览文献索引 ↗</a><a href="methods.html">具体研究方法 ↗</a></div><div class="reading-tools"><button id="font-toggle" aria-pressed="false">大字阅读</button><button id="print-page">打印 / 存为 PDF</button></div></aside>'
 hero='''<section class="hero" id="top"><p class="eyebrow">RESEARCH NOTE 01 / ALBANIA · DIELLA</p><h1>AI 能让公共采购<br>更廉洁吗？</h1><p class="subtitle">以阿尔巴尼亚 Diella 为切入的风险识别与问责机制设计</p><div class="statusline"><span class="status">六部分研究设计稿 v0.1</span><span>2026-10-29</span><span>实证分析尚未开展</span></div><div class="hero-actions"><a href="#introduction">开始阅读 ↓</a><a href="downloads/paper.md" download>下载 Markdown 研究稿 ↗</a><a href="literature.html">查看引用与主要观点 ↗</a></div></section><div class="proposal"><div class="label">待检验的核心解释</div><p>AI 的廉洁效应，取决于风险信号能否经过<strong>可追溯的记录、有理由的复核和可执行的纠正</strong>，最终改变具体采购结果。</p></div>'''
-content=hero+'<main id="main" class="reading-layout">'+toc+'<article class="article">'+''.join(chunks)+'<section id="references"><div class="section-no">REFERENCES</div><h2>引用书目</h2><p class="evidence-note">以下按本稿实际引用列出。评论与原始制度资料按类型使用；具体阅读深度和引用版本请展开文献索引核对。</p>'+reference_html(used)+'</section></article></main><a class="to-top" href="#top">返回顶部 ↑</a>'
-(DOCS/'index.html').write_text(page('AI 能让公共采购更廉洁吗？',content,'paper'),encoding='utf-8')
+chapter_rows=''.join('<tr><td>'+str(n).zfill(2)+' · '+esc(title)+'</td><td>'+esc(question)+'</td><td><a class="chapter-link" href="https://github.com/chenergou847/diella-procurement-accountability/blob/main/manuscript/'+filename+'">打开章节初稿 ↗</a></td></tr>' for n,(filename,anchor,title,question) in enumerate(SECTIONS,1))
+content='''<section class="hero" id="top"><p class="eyebrow">RESEARCH WORKSPACE / ALBANIA · DIELLA</p><h1>Diella 研究工作区</h1><p class="subtitle">AI 能让公共采购更廉洁吗？</p><p class="lead">现阶段按章节整理问题、文献与研究方案。这六部分是当前讨论范围，完整论文结构尚未确定。</p><div class="statusline"><span class="status">分章节初稿 · 待逐节讨论</span><span>2026-10-29</span></div><div class="hero-actions"><a href="literature.html">浏览文献与引用 ↗</a><a href="https://github.com/chenergou847/diella-procurement-accountability/tree/main/manuscript">打开章节目录 ↗</a></div></section><main id="main" class="library-main"><p class="eyebrow">CURRENT CHAPTERS / 当前材料</p><div class="table-wrap"><table><thead><tr><th>章节</th><th>本节要解决的问题</th><th>材料</th></tr></thead><tbody>'''+chapter_rows+'''</tbody></table></div><p class="library-end">现有文字为初步整理稿，尚未逐节确认，不作为完整报告或已经完成的实证论文。后续内容按讨论进度推进。</p></main>'''
+(DOCS/'index.html').write_text(page('章节工作区',content,'paper'),encoding='utf-8')
 
 refs='\n\n'.join('**['+i+']** '+BY_ID[i]['citation']+'\n\n选用类型：'+BY_ID[i]['selection_label']+'。'+BY_ID[i]['authority_label']+'。' for i in sorted(used))
 definitions='\n'.join('['+i+']: '+BY_ID[i]['source_url'] for i in sorted(used))
 paper='# AI 能让公共采购更廉洁吗？\n\n以阿尔巴尼亚 Diella 为切入的风险识别与问责机制设计\n\n**六部分研究设计稿 v0.1 · '+DATE+'。尚未开展合同级效果估计。**\n\n'+'\n\n'.join(source_chunks)+'\n\n## 引用书目\n\n'+refs+'\n\n'+definitions+'\n'
-(ROOT/'paper.md').write_text(paper,encoding='utf-8')
-(DOCS/'downloads/paper.md').write_text(paper,encoding='utf-8')
+# 用户明确要求按章节推进：不生成整篇汇编或整体报告下载。
 
 def card(r):
     i=r['id'];v=r['citation_variants'];first=v[0]

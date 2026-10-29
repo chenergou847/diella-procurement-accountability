@@ -30,7 +30,10 @@ for path in (ROOT/'docs').glob('*.html'):
     assert not re.search(r'__[A-Z_]+__',s),'未替换模板变量'
     assert not re.search(r'file://|[A-Z]:[/\\]Users|codex-clipboard',s),'公开文件含个人路径'
     assert 'Technocratic Spectacle or Democratic Innovation?' not in s
-    if path.name=='index.html':assert p.sections==6
+    if path.name=='index.html':
+        assert s.count('class="chapter-link"')==6
+        assert '完整论文结构尚未确定' in s
+        assert 'downloads/paper.md' not in s
 for path,p in pages.items():
     for href in p.links:
         u=urlparse(href)
@@ -47,6 +50,7 @@ for path in ROOT.rglob('*'):
         assert path.suffix.lower() not in ['.pdf','.docx','.pptx'],'不应发布的第三方原文件'
         if path.suffix in ['.md','.json','.csv','.ris','.bib']:
             assert not re.search(r'file://|[A-Z]:[/\\]Users|codex-clipboard',path.read_text(encoding='utf-8-sig')),'个人路径：'+str(path)
-result={'date':'2026-10-29','sections':6,'core_references':23,'supplement':4,'claims_registered':len(claims),'procurement_observations':0,'local_links':'passed','reference_anchors':'passed','no_personal_paths':'passed','no_third_party_fulltexts':'passed','directory_only_record_absent':'passed','browser_visual_check':'pending'}
+assert not (ROOT/'paper.md').exists() and not (ROOT/'docs/downloads/paper.md').exists()
+result={'date':'2026-10-29','chapter_drafts':6,'scope':'分章节推进，不生成完整报告','core_references':23,'supplement':4,'claims_registered':len(claims),'procurement_observations':0,'local_links':'passed','reference_anchors':'passed','no_personal_paths':'passed','no_third_party_fulltexts':'passed','directory_only_record_absent':'passed','browser_visual_check':'see browser-qa.json'}
 (ROOT/'audit/validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(json.dumps(result,ensure_ascii=False))

@@ -1,6 +1,7 @@
 {
   "date": "2026-10-29",
-  "sections": 6,
+  "chapter_drafts": 6,
+  "scope": "分章节推进，不生成完整报告",
   "core_references": 23,
   "supplement": 4,
   "claims_registered": 13,
@@ -10,5 +11,5 @@
   "no_personal_paths": "passed",
   "no_third_party_fulltexts": "passed",
   "directory_only_record_absent": "passed",
-  "browser_visual_check": "pending"
+  "browser_visual_check": "see browser-qa.json"
 }
